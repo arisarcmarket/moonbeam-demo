@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "moonbeam-demo",
+    "branch": "master"
+  },
+  "name": "Moonbeam-Demo",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1001
+}
